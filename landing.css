@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+img {
+    width: 150px;
+    height:150px;
+    border-radius: 
+    margin-bottom: 20px;
+}
+
+button:hover {
+    color:rgb(180, 242, 242);
+}
